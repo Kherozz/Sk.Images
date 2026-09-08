@@ -1,0 +1,42 @@
+{
+  "version": 1,
+
+  "settings": {
+    "display_seconds": 10,
+    "transition_seconds": 0.55
+  },
+
+  "ads": [
+    {
+      "id": "sagitario",
+      "enabled": true,
+      "slot": 1,
+
+      "action": {
+        "type": "vrchat_group",
+        "group_id": "grp_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+      }
+    },
+
+    {
+      "id": "evento_mora",
+      "enabled": true,
+      "slot": 2,
+      "display_seconds": 15,
+
+      "action": {
+        "type": "none"
+      }
+    },
+
+    {
+      "id": "mora_default",
+      "enabled": true,
+      "slot": 12,
+
+      "action": {
+        "type": "none"
+      }
+    }
+  ]
+}
