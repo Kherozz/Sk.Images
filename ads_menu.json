@@ -32,7 +32,7 @@
     {
       "id": "mora_default",
       "enabled": true,
-      "slot": 3,
+      "slot": 4,
 
       "action": {
         "type": "none"
