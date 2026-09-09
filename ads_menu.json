@@ -2,7 +2,7 @@
   "version": 1,
 
   "settings": {
-    "display_seconds": 10,
+    "display_seconds": 5,
     "transition_seconds": 0.55
   },
 
@@ -14,7 +14,7 @@
 
       "action": {
         "type": "vrchat_group",
-        "group_id": "grp_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+        "group_id": "grp_14773a8d-c7ec-4551-a9ca-eebab255c46c"
       }
     },
 
@@ -22,7 +22,7 @@
       "id": "evento_mora",
       "enabled": true,
       "slot": 2,
-      "display_seconds": 15,
+      "display_seconds": 10,
 
       "action": {
         "type": "none"
